@@ -1,0 +1,7 @@
+xport PATH=$PATH:/usr/local/go/bin
+
+source .profile
+
+cat $HOME/.profile
+
+apt install golang-go
